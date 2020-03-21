@@ -1,0 +1,1428 @@
+Symptom,Disease
+anxiety,depression mental
+apathy,depression mental
+general discontent,depression mental
+guilt,depression mental
+hopelessness,depression mental
+loss of interest,depression mental
+pleasure in activities,depression mental
+mood swings,depression mental
+sadness,depression mental
+agitation,depression mental
+excessive crying,depression mental
+irritability,depression mental
+restlessness,depression mental
+social isolation,depression mental
+early awakening,depression mental
+excess sleepiness,depression mental
+insomnia,depression mental
+restless sleep,depression mental
+excessive hunger,depression mental
+fatigue,depression mental
+loss of appetite,depression mental
+lack of concentration,depression mental
+slowness in activity,depression mental
+thoughts of suicide,depression mental
+weight gain,depression mental
+weight loss,depression mental
+poor appetite,depression mental
+repeatedly going over thoughts,depression mental
+fatigue,hypothyroidism
+lethargy,hypothyroidism
+feeling cold,hypothyroidism
+delayed puberty,hypothyroidism
+slow growth,hypothyroidism
+hair loss,hypothyroidism
+dryness,hypothyroidism
+brittle nails,hypothyroidism
+constipation,hypothyroidism
+dry skin,hypothyroidism
+enlarged thyroid,hypothyroidism
+high cholesterol,hypothyroidism
+irritability,hypothyroidism
+sensitivity to cold,hypothyroidism
+sexual dysfunction,hypothyroidism
+slow heart rate,hypothyroidism
+sluggishness,hypothyroidism
+weight gain,hypothyroidism
+irregular uterine bleeding,hypothyroidism
+in the bones,malignant neoplasm of prostate
+difficulty starting and maintaining a steady stream of urine,malignant neoplasm of prostate
+dribbling of urine,malignant neoplasm of prostate
+excessive urination at night,malignant neoplasm of prostate
+frequent urination,malignant neoplasm of prostate
+urge to urinate and leaking,malignant neoplasm of prostate
+urinary retention,malignant neoplasm of prostate
+weak urinary stream,malignant neoplasm of prostate
+dizziness,anemia
+fatigue,anemia
+lightheadedness,anemia
+malaise,anemia
+fast heart rate,anemia
+palpitations,anemia
+brittle nails,anemia
+headache,anemia
+shortness of breath,anemia
+weakness in the back,anemia
+pain in upper-right abdomen,cholelithiasis
+indigestion,cholelithiasis
+nausea,cholelithiasis
+vomiting,cholelithiasis
+cramping from gallstones,cholelithiasis
+discomfort,cholelithiasis
+pain in the abdomen,cirrhosis
+bleeding,cirrhosis
+dark stool from digested blood,cirrhosis
+fluid in the abdomen,cirrhosis
+nausea,cirrhosis
+passing excessive amounts of gas,cirrhosis
+vomiting blood,cirrhosis
+water retention,cirrhosis
+fatigue,cirrhosis
+loss of appetite,cirrhosis
+reduced hormone production,cirrhosis
+web of swollen blood vessels in the skin,cirrhosis
+yellow skin and eyes,cirrhosis
+weight gain,cirrhosis
+weight loss,cirrhosis
+bleeding,cirrhosis
+breast augmentation,cirrhosis
+bruising,cirrhosis
+dark urine,cirrhosis
+enlarged veins around belly button,cirrhosis
+itching,cirrhosis
+mental confusion,cirrhosis
+muscle weakness,cirrhosis
+shortness of breath,cirrhosis
+swelling,cirrhosis
+swelling in extremities,cirrhosis
+swollen veins in the lower esophagus,cirrhosis
+pain in the chest,pneumothorax
+fast breathing,pneumothorax
+shallow breathing,pneumothorax
+shortness of breath,pneumothorax
+chest pressure,pneumothorax
+coughing,pneumothorax
+fast heart rate,pneumothorax
+low oxygen in the body,pneumothorax
+pain in the face,migraine disorders
+pain in neck,migraine disorders
+throbbing,migraine disorders
+sensitivity to light,migraine disorders
+distorted vision,migraine disorders
+seeing flashes of light,migraine disorders
+dizziness,migraine disorders
+lightheadedness,migraine disorders
+malaise,migraine disorders
+aura,migraine disorders
+sensitivity to sound,migraine disorders
+nausea,migraine disorders
+vomiting,migraine disorders
+irritability,migraine disorders
+nasal congestion,migraine disorders
+scalp tenderness,migraine disorders
+pain in the abdomen,pancreatitis
+pain in back,pancreatitis
+pain can be sudden in the abdomen,pancreatitis
+bloating,pancreatitis
+fat in stool,pancreatitis
+indigestion,pancreatitis
+nausea,pancreatitis
+vomiting,pancreatitis
+loss of appetite,pancreatitis
+sweating,pancreatitis
+fast heart rate,pancreatitis
+weight loss,pancreatitis
+fatigue,HIV
+fever,HIV
+loss of appetite,HIV
+malaise,HIV
+night sweats,HIV
+sweating,HIV
+nausea,HIV
+persistent diarrhea,HIV
+vomiting,HIV
+watery diarrhea,HIV
+difficulty swallowing,HIV
+swelling,HIV
+ulcers,HIV
+white tongue,HIV
+opp,HIV
+tunistic infection,HIV
+headache,HIV
+oral thrush,HIV
+pneumonia,HIV
+red blotches,HIV
+severe unintentional weight loss,HIV
+skin rash,HIV
+swollen lymph nodes,HIV
+mood swings,bipolar disorder
+sadness,bipolar disorder
+elevated mood,bipolar disorder
+anger,bipolar disorder
+anxiety,bipolar disorder
+apathy,bipolar disorder
+apprehension,bipolar disorder
+euphoria,bipolar disorder
+general discontent,bipolar disorder
+guilt,bipolar disorder
+hopelessness,bipolar disorder
+loss of interest,bipolar disorder
+pleasure in activities,bipolar disorder
+irritability,bipolar disorder
+risk taking behavior,bipolar disorder
+disorganized behavior,bipolar disorder
+aggression,bipolar disorder
+agitation,bipolar disorder
+crying,bipolar disorder
+excess desire for sex,bipolar disorder
+hyperactivity,bipolar disorder
+impulsivity,bipolar disorder
+restlessness,bipolar disorder
+self-harm,bipolar disorder
+unwanted thoughts,bipolar disorder
+delusion,bipolar disorder
+lack of concentration,bipolar disorder
+racing thoughts,bipolar disorder
+slowness in activity,bipolar disorder
+false belief of superiority,bipolar disorder
+depression,bipolar disorder
+manic episode,bipolar disorder
+agitated depression,bipolar disorder
+paranoia,bipolar disorder
+weight gain,bipolar disorder
+weight loss,bipolar disorder
+difficulty falling asleep,bipolar disorder
+excess sleepiness,bipolar disorder
+fatigue,bipolar disorder
+rapid and frenzied speaking,bipolar disorder
+excess sweating,hypoglycemia
+excessive hunger,hypoglycemia
+fainting,hypoglycemia
+fatigue,hypoglycemia
+lightheadedness,hypoglycemia
+shakiness,hypoglycemia
+nausea,hypoglycemia
+vomiting,hypoglycemia
+mental confusion,hypoglycemia
+unresponsiveness,hypoglycemia
+dryness,hypoglycemia
+tingling lips,hypoglycemia
+anxiety,hypoglycemia
+blurred vision,hypoglycemia
+headache,hypoglycemia
+irritability,hypoglycemia
+palpitations,hypoglycemia
+sensation of pins and needles,hypoglycemia
+sleepiness,hypoglycemia
+slurred speech,hypoglycemia
+trembling,hypoglycemia
+unsteadiness,hypoglycemia
+pain in the abdomen,hepatitis C
+bleeding,hepatitis C
+bloating,hepatitis C
+fluid in the abdomen,hepatitis C
+nausea,hepatitis C
+fatigue,hepatitis C
+fever,hepatitis C
+loss of appetite,hepatitis C
+web of swollen blood vessels in the skin,hepatitis C
+yellow skin and eyes,hepatitis C
+depression,hepatitis C
+weight loss ,hepatitis C
+pain in the back,biliary calculus
+pain in upper-right abdomen,biliary calculus
+pain can be severe,biliary calculus
+indigestion,biliary calculus
+nausea,biliary calculus
+vomiting,biliary calculus
+cramping from gallstones,biliary calculus
+discomfort,biliary calculus
+fatigue,lymphoma
+loss of appetite,lymphoma
+night sweats,lymphoma
+shortness of breath,lymphoma
+swollen lymph nodes,lymphoma
+weight loss,lymphoma
+pain in the joints,arthritis
+pain in ankle,arthritis
+pain in back,arthritis
+pain in fingers,arthritis
+pain in hands,arthritis
+pain in muscles,arthritis
+pain in neck,arthritis
+pain in wrist,arthritis
+pain can occur while sitting,arthritis
+stiffness,arthritis
+tenderness,arthritis
+swelling,arthritis
+decreased range of motion,arthritis
+difficulty walking,arthritis
+muscle weakness,arthritis
+bump on the finger,arthritis
+bony outgrowth in fingers,arthritis
+bony outgrowth in toes,arthritis
+fatigue,arthritis
+malaise,arthritis
+flare,arthritis
+physical deformity,arthritis
+redness,arthritis
+stiff neck,arthritis
+difficulty walking,accident cerebrovascular
+instability,accident cerebrovascular
+paralysis with weak muscles,accident cerebrovascular
+problems with coordination,accident cerebrovascular
+stiff muscles,accident cerebrovascular
+overactive reflexes,accident cerebrovascular
+paralysis of one side of the body,accident cerebrovascular
+blurred vision,accident cerebrovascular
+double vision,accident cerebrovascular
+sudden visual loss,accident cerebrovascular
+temporary loss of vision in one eye,accident cerebrovascular
+difficulty speaking,accident cerebrovascular
+slurred speech,accident cerebrovascular
+speech loss,accident cerebrovascular
+fatigue,accident cerebrovascular
+lightheadedness,accident cerebrovascular
+vertigo,accident cerebrovascular
+numbness,accident cerebrovascular
+weakness,accident cerebrovascular
+pins and needles,accident cerebrovascular
+reduced sensation of touch,accident cerebrovascular
+muscle weakness,accident cerebrovascular
+numbness,accident cerebrovascular
+difficulty swallowing,accident cerebrovascular
+headache,accident cerebrovascular
+inability to understand,accident cerebrovascular
+mental confusion,accident cerebrovascular
+rapid involuntary eye movement,accident cerebrovascular
+heart murmur,mitral valve insufficiency
+shortness of breath,mitral valve insufficiency
+pain in the chest,edema pulmonary
+shortness of breath on lying down,edema pulmonary
+fast breathing,edema pulmonary
+rapid breathing,edema pulmonary
+shallow breathing,edema pulmonary
+wheezing,edema pulmonary
+fatigue,edema pulmonary
+sweating,edema pulmonary
+coughing,edema pulmonary
+water retention,edema pulmonary
+fast heart rate,edema pulmonary
+breast cancer,malignant neoplasms
+excess sweating,hyperglycemia
+excessive hunger,hyperglycemia
+fainting,hyperglycemia
+fatigue,hyperglycemia
+lightheadedness,hyperglycemia
+shakiness,hyperglycemia
+nausea,hyperglycemia
+vomiting,hyperglycemia
+mental confusion,hyperglycemia
+unresponsiveness,hyperglycemia
+dryness,hyperglycemia
+tingling lips,hyperglycemia
+anxiety,hyperglycemia
+blurred vision,hyperglycemia
+headache,hyperglycemia
+irritability,hyperglycemia
+palpitations,hyperglycemia
+sensation of pins and needles,hyperglycemia
+sleepiness,hyperglycemia
+slurred speech,hyperglycemia
+trembling,hyperglycemia
+unsteadiness,hyperglycemia
+fainting,epilepsy
+fatigue,epilepsy
+rhythmic muscle contractions,epilepsy
+muscle spasms,epilepsy
+aura,epilepsy
+pins and needles,epilepsy
+seizures,epilepsy
+amnesia,epilepsy
+anxiety,epilepsy
+depression,epilepsy
+headache,epilepsy
+sleepiness,epilepsy
+staring spells,epilepsy
+temporary paralysis after a seizure,epilepsy
+pain in the chest,coronary arteriosclerosis
+indigestion,coronary arteriosclerosis
+nausea,coronary arteriosclerosis
+lightheadedness,coronary arteriosclerosis
+sweating,coronary arteriosclerosis
+fast heart rate,coronary arteriosclerosis
+shortness of breath,coronary arteriosclerosis
+pain in the bladder,infection urinary tract
+groin,infection urinary tract
+lower abdomen,infection urinary tract
+pelvis,infection urinary tract
+pain can occur during urination,infection urinary tract
+pain during sexual intercourse,infection urinary tract
+foul smelling urine,infection urinary tract
+frequent urination,infection urinary tract
+bladder spasm,infection urinary tract
+cloudy urine,infection urinary tract
+dark urine,infection urinary tract
+persistent urge to urinate,infection urinary tract
+sense of incomplete bladder emptying,infection urinary tract
+blood in urine,infection urinary tract
+fatigue,infection urinary tract
+fever,infection urinary tract
+malaise,infection urinary tract
+cramping,infection urinary tract
+vaginal irritation,infection urinary tract
+pain in face,neuropathy
+pain in foot,neuropathy
+pain in hands,neuropathy
+pain in thigh,neuropathy
+pain can be burning and tingling,neuropathy
+cramping,neuropathy
+difficulty walking,neuropathy
+muscle weakness,neuropathy
+problems with coordination,neuropathy
+feeling pinched by pins and needles,neuropathy
+uncomftable tingling and burning,neuropathy
+oversensitivity,neuropathy
+reduced sensation of touch,neuropathy
+sensitivity to pain,neuropathy
+poor balance,neuropathy
+slow reflexes,neuropathy
+tingling feet,neuropathy
+tingling fingers,neuropathy
+weakness,neuropathy
+in the abdomen,ileus
+bloating,ileus
+constipation,ileus
+nausea,ileus
+belching,ileus
+vomiting,ileus
+food intolerance,ileus
+can be chronic,bronchitis
+dry with phlegm,bronchitis
+fatigue,bronchitis
+malaise,bronchitis
+runny nose,bronchitis
+post-nasal drip,bronchitis
+chest pressure,bronchitis
+headache,bronchitis
+shortness of breath,bronchitis
+sleeping difficulty,bronchitis
+sore throat,bronchitis
+fever,hiv infections
+loss of appetite,hiv infections
+malaise,hiv infections
+night sweats,hiv infections
+sweating,hiv infections
+nausea,hiv infections
+persistent diarrhea,hiv infections
+vomiting,hiv infections
+watery diarrhea,hiv infections
+difficulty swallowing,hiv infections
+swelling,hiv infections
+ulcers,hiv infections
+white tongue,hiv infections
+opportunistic infection,hiv infections
+headache,hiv infections
+oral thrush,hiv infections
+pneumonia,hiv infections
+red blotches,hiv infections
+severe unintentional weight loss,hiv infections
+skin rash,hiv infections
+swollen lymph nodes,hiv infections
+blackout,chronic alcoholic intoxication
+dehydration,chronic alcoholic intoxication
+flushing,chronic alcoholic intoxication
+amnesia,chronic alcoholic intoxication
+mental confusion,chronic alcoholic intoxication
+unresponsiveness,chronic alcoholic intoxication
+nausea,chronic alcoholic intoxication
+vomiting,chronic alcoholic intoxication
+aggression,chronic alcoholic intoxication
+lack of restraint,chronic alcoholic intoxication
+depression,chronic alcoholic intoxication
+euphoria,chronic alcoholic intoxication
+problems with coordination,chronic alcoholic intoxication
+rapid involuntary eye movement,chronic alcoholic intoxication
+slurred speech,chronic alcoholic intoxication
+stiff muscles,tonic-clonic seizures
+rhythmic muscle contractions,tonic-clonic seizures
+muscle quiver,tonic-clonic seizures
+aura,tonic-clonic seizures
+pins and needles,tonic-clonic seizures
+mental confusion,tonic-clonic seizures
+confusion following a seizure,tonic-clonic seizures
+blue skin from po,tonic-clonic seizures
+circulation,tonic-clonic seizures
+drooling,tonic-clonic seizures
+fainting,tonic-clonic seizures
+headache,tonic-clonic seizures
+leaking of urine,tonic-clonic seizures
+lip and tongue biting,tonic-clonic seizures
+sleepiness,tonic-clonic seizures
+pain in the abdomen,diverticulosis
+change in bowel habits,diverticulosis
+constipation,diverticulosis
+indigestion,ulcer peptic
+nausea,ulcer peptic
+passing excessive amounts of gas,ulcer peptic
+vomiting,ulcer peptic
+abdominal discomfort,ulcer peptic
+fatigue,ulcer peptic
+pain in the joints,gout
+pain in ankle,gout
+pain in foot,gout
+pain in knee,gout
+pain in toe,gout
+lumps,gout
+stiffness,gout
+swelling,gout
+physical deformity,gout
+redness,gout
+fever,neutropenia
+mouth ulcer,neutropenia
+sore throat,neutropenia
+susceptibility to infection,neutropenia
+squamous cell carcinoma,carcinoma
+pain in the chest,hypertension pulmonary
+dizziness,hypertension pulmonary
+fatigue,hypertension pulmonary
+inability to exercise,hypertension pulmonary
+low blood pressure,hypertension pulmonary
+chest pressure,hypertension pulmonary
+chronic cough,hypertension pulmonary
+fast heart rate,hypertension pulmonary
+shortness of breath,hypertension pulmonary
+swelling,hypertension pulmonary
+swollen legs,hypertension pulmonary
+mental decline,Alzheimer's disease
+difficulty thinking and understanding,Alzheimer's disease
+confusion in the evening hours,Alzheimer's disease
+delusion,Alzheimer's disease
+disorientation,Alzheimer's disease
+forgetfulness,Alzheimer's disease
+making things up,Alzheimer's disease
+mental confusion,Alzheimer's disease
+difficulty concentrating,Alzheimer's disease
+inability to create new memories,Alzheimer's disease
+inability to do simple math,Alzheimer's disease
+inability to recognize common things,Alzheimer's disease
+aggression,Alzheimer's disease
+agitation,Alzheimer's disease
+difficulty with self care,Alzheimer's disease
+irritability,Alzheimer's disease
+meaningless repetition of own words,Alzheimer's disease
+personality changes,Alzheimer's disease
+restlessness,Alzheimer's disease
+lack of restraint,Alzheimer's disease
+wandering and getting lost,Alzheimer's disease
+anger,Alzheimer's disease
+apathy,Alzheimer's disease
+general discontent,Alzheimer's disease
+loneliness,Alzheimer's disease
+mood swings,Alzheimer's disease
+depression,Alzheimer's disease
+hallucination,Alzheimer's disease
+paranoia,Alzheimer's disease
+inability to combine muscle movements,Alzheimer's disease
+jumbled speech,Alzheimer's disease
+loss of appetite,Alzheimer's disease
+in the bones,carcinoma prostate
+difficulty starting and maintaining a steady stream of urine,carcinoma prostate
+dribbling of urine,carcinoma prostate
+excessive urination at night,carcinoma prostate
+frequent urination,carcinoma prostate
+urge to urinate and leaking,carcinoma prostate
+urinary retention,carcinoma prostate
+weak urinary stream,carcinoma prostate
+fatigue,acquired immuno-deficiency syndrome
+fever,acquired immuno-deficiency syndrome
+loss of appetite,acquired immuno-deficiency syndrome
+malaise,acquired immuno-deficiency syndrome
+night sweats,acquired immuno-deficiency syndrome
+sweating,acquired immuno-deficiency syndrome
+nausea,acquired immuno-deficiency syndrome
+persistent diarrhea,acquired immuno-deficiency syndrome
+vomiting,acquired immuno-deficiency syndrome
+watery diarrhea,acquired immuno-deficiency syndrome
+difficulty swallowing,acquired immuno-deficiency syndrome
+soreness,acquired immuno-deficiency syndrome
+swelling,acquired immuno-deficiency syndrome
+ulcers,acquired immuno-deficiency syndrome
+white tongue,acquired immuno-deficiency syndrome
+opportunistic infection,acquired immuno-deficiency syndrome
+headache,acquired immuno-deficiency syndrome
+oral thrush,acquired immuno-deficiency syndrome
+pneumonia,acquired immuno-deficiency syndrome
+red blotches,acquired immuno-deficiency syndrome
+severe unintentional weight loss,acquired immuno-deficiency syndrome
+skin rash,acquired immuno-deficiency syndrome
+swollen lymph nodes,acquired immuno-deficiency syndrome
+bone fracture,osteoporosis
+loss of height,osteoporosis
+hepatitis b,hepatitis
+pain in the joints,sickle cell anemia
+pain can be sudden in the chest,sickle cell anemia
+dizziness,sickle cell anemia
+fatigue,sickle cell anemia
+low oxygen in the body,sickle cell anemia
+malaise,sickle cell anemia
+inability to make concentrated,sickle cell anemia
+dilute urine,sickle cell anemia
+blood in urine,sickle cell anemia
+abnormal breakdown of red blood cells,sickle cell anemia
+delayed development,sickle cell anemia
+inflamed fingers,sickle cell anemia
+pain in toes,sickle cell anemia
+shortness of breath,sickle cell anemia
+yellow skin and eyes,sickle cell anemia
+pain in the chest,coronary heart disease
+indigestion,coronary heart disease
+nausea,coronary heart disease
+lightheadedness,coronary heart disease
+sweating,coronary heart disease
+fast heart rate,coronary heart disease
+shortness of breath,coronary heart disease
+pain in the calf,thrombus
+pain in foot,thrombus
+pain in leg,thrombus
+swelling in extremities,thrombus
+tenderness,thrombus
+warm skin,thrombus
+ulcerative colitis,colitis
+social isolation,schizophrenia
+disorganized behavior,schizophrenia
+aggression,schizophrenia
+agitation,schizophrenia
+compulsive behavi,schizophrenia
+excitability,schizophrenia
+hostility,schizophrenia
+repetitive movements,schizophrenia
+self-harm,schizophrenia
+lack of restraint,schizophrenia
+thought disorder,schizophrenia
+delusion,schizophrenia
+amnesia,schizophrenia
+belief that an ordinary event has special and personal meaning,schizophrenia
+belief that thoughts aren't one's own,schizophrenia
+disorientation,schizophrenia
+memory loss,schizophrenia
+mental confusion,schizophrenia
+slowness in activity,schizophrenia
+false belief of superiority,schizophrenia
+anger,schizophrenia
+anxiety,schizophrenia
+apathy,schizophrenia
+feeling detached from self,schizophrenia
+general discontent,schizophrenia
+loss of interest,schizophrenia
+pleasure in activities,schizophrenia
+elevated mood,schizophrenia
+inappropriate emotional response,schizophrenia
+hallucination,schizophrenia
+paranoia,schizophrenia
+hearing voices,schizophrenia
+depression,schizophrenia
+fear,schizophrenia
+persecutory delusion,schizophrenia
+religious delusion,schizophrenia
+circumstantial speech,schizophrenia
+incoherent speech,schizophrenia
+rapid and frenzied speaking,schizophrenia
+speech disorder,schizophrenia
+fatigue,schizophrenia
+impaired mot,schizophrenia
+problems with coordination,schizophrenia
+lack of emotional response,schizophrenia
+disorganized behavior,psychotic disorder
+aggression,psychotic disorder
+agitation,psychotic disorder
+hostility,psychotic disorder
+hyperactivity,psychotic disorder
+hypervigilance,psychotic disorder
+nonsense word repetition,psychotic disorder
+repetitive movements,psychotic disorder
+restlessness,psychotic disorder
+self-harm,psychotic disorder
+social isolation,psychotic disorder
+lack of restraint,psychotic disorder
+persistent repetition of words,psychotic disorder
+thought disorder,psychotic disorder
+confusion,psychotic disorder
+belief that an ordinary event has special and personal meaning,psychotic disorder
+belief that thoughts aren't one's own,psychotic disorder
+disorientation,psychotic disorder
+memory loss,psychotic disorder
+racing thoughts,psychotic disorder
+slowness in activity,psychotic disorder
+thoughts of suicide,psychotic disorder
+unwanted thoughts,psychotic disorder
+difficulty thinking and understanding,psychotic disorder
+false belief of superiority,psychotic disorder
+anger,psychotic disorder
+anxiety,psychotic disorder
+apathy,psychotic disorder
+excitement,psychotic disorder
+feeling detached from self,psychotic disorder
+general discontent,psychotic disorder
+limited range of emotions,psychotic disorder
+loneliness,psychotic disorder
+nervousness,psychotic disorder
+fear,psychotic disorder
+hearing voices,psychotic disorder
+depression,psychotic disorder
+manic episode,psychotic disorder
+paranoia,psychotic disorder
+persecutory delusion,psychotic disorder
+religious delusion,psychotic disorder
+visual hallucinations,psychotic disorder
+deficiency of speech,psychotic disorder
+excessive wordiness,psychotic disorder
+incoherent speech,psychotic disorder
+rapid and frenzied speaking,psychotic disorder
+nightmares,psychotic disorder
+tactile hallucination,psychotic disorder
+water retention,overload fluid
+fluid in the abdomen,overload fluid
+swelling in extremities,overload fluid
+weight gain,overload fluid
+fatigue,overload fluid
+shortness of breath,overload fluid
+altered level of consciousness,encephalopathy
+amnesia,encephalopathy
+inability to speak,encephalopathy
+inability to understand language,encephalopathy
+lack of concentration,encephalopathy
+mental confusion,encephalopathy
+slowness in activity,encephalopathy
+problems with co,encephalopathy
+dination,encephalopathy
+rhythmic muscle contractions,encephalopathy
+rhythmic muscle spasm,encephalopathy
+overactive reflexes,encephalopathy
+fainting,encephalopathy
+fatigue,encephalopathy
+abnormal breathing pattern,encephalopathy
+coma,encephalopathy
+delirium,encephalopathy
+flapping hand trem,encephalopathy
+personality change,encephalopathy
+rapid involuntary eye movement,encephalopathy
+seizures with no outward symptoms,encephalopathy
+swelling in extremities,deep vein thrombosis
+tenderness,deep vein thrombosis
+warm skin,deep vein thrombosis
+antisocial behavi,personality disorder
+compulsive behavi,personality disorder
+hostility,personality disorder
+impulsivity,personality disorder
+irritability,personality disorder
+risk taking behavior,personality disorder
+self-destructive behavior,personality disorder
+self-harm,personality disorder
+social isolation,personality disorder
+lack of restraint,personality disorder
+anger,personality disorder
+anxiety,personality disorder
+general discontent,personality disorder
+guilt,personality disorder
+loneliness,personality disorder
+mood swings,personality disorder
+sadness,personality disorder
+depression,personality disorder
+distorted image,personality disorder
+grandiosity,personality disorder
+narcissism,personality disorder
+thoughts of suicide,personality disorder
+chronic kidney disease,insufficiency renal
+pain in the bones,osteomyelitis
+pain in hip,osteomyelitis
+chills,osteomyelitis
+fatigue,osteomyelitis
+fever,osteomyelitis
+malaise,osteomyelitis
+night sweats,osteomyelitis
+ulcers,osteomyelitis
+redness,osteomyelitis
+swelling,osteomyelitis
+bigger mole diameter,melanoma
+darkening of the skin,melanoma
+mole color changes,melanoma
+in the abdomen,gastritis
+upper abdomen,gastritis
+belching,gastritis
+heartburn,gastritis
+indigestion,gastritis
+nausea,gastritis
+vomiting,gastritis
+loss of appetite,gastritis
+in the rectum,hemorrhoids
+can occur while sitting,hemorrhoids
+discomf,hemorrhoids
+t,hemorrhoids
+itchiness,hemorrhoids
+swelling,hemorrhoids
+bleeding,hemorrhoids
+constipation,hemorrhoids
+vaginal yeast infection,candidiasis
+common cold,infection
+chronic kidney disease,failure kidney
+dizziness,failure heart
+fatigue,failure heart
+inability to exercise,failure heart
+loss of appetite,failure heart
+fast breathing,failure heart
+shortness of breath at night,failure heart
+shortness of breath on exercise,failure heart
+shortness of breath on lying down,failure heart
+water retention,failure heart
+bloating,failure heart
+excess urination at night,failure heart
+palpitations,failure heart
+swollen feet,failure heart
+swollen legs,failure heart
+weight gain,failure heart
+water-electrolyte imbalance,kidney failure acute
+fatigue,kidney failure acute
+insufficient urine production,kidney failure acute
+urinary retention,kidney failure acute
+shortness of breath,kidney failure acute
+swelling,kidney failure acute
+too much acid in blood and tissues,kidney failure acute
+in the chest,ischemia
+indigestion,ischemia
+nausea,ischemia
+lightheadedness,ischemia
+sweating,ischemia
+fast heart rate,ischemia
+shortness of breath,ischemia
+pain in the chest,failure heart congestive
+dizziness,failure heart congestive
+fatigue,failure heart congestive
+inability to exercise,failure heart congestive
+loss of appetite,failure heart congestive
+fast breathing,failure heart congestive
+shortness of breath at night,failure heart congestive
+shortness of breath on exercise,failure heart congestive
+shortness of breath on lying down,failure heart congestive
+water retention,failure heart congestive
+bloating,failure heart congestive
+excess urination at night,failure heart congestive
+palpitations,failure heart congestive
+swollen feet,failure heart congestive
+swollen legs,failure heart congestive
+weight gain,failure heart congestive
+aortic aneurysm,hypercholesterolemia
+heart attack,hypercholesterolemia
+peripheral artery disease,hypercholesterolemia
+stroke,hypercholesterolemia
+in the chest,carcinoma of lung
+pain can occur while breathing,carcinoma of lung
+pain can be chronic,carcinoma of lung
+frequent respiratory infections,carcinoma of lung
+shortness of breath,carcinoma of lung
+wheezing,carcinoma of lung
+fatigue,carcinoma of lung
+loss of appetite,carcinoma of lung
+chest pressure,carcinoma of lung
+hoarseness,carcinoma of lung
+swollen lymph nodes,carcinoma of lung
+weakness,carcinoma of lung
+weight loss,carcinoma of lung
+dribbling after urination,benign prostatic hypertrophy
+excessive urination at night,benign prostatic hypertrophy
+frequent urination,benign prostatic hypertrophy
+sense of incomplete bladder emptying,benign prostatic hypertrophy
+urge to urinate and leaking,benign prostatic hypertrophy
+weak urinary stream,benign prostatic hypertrophy
+incontinence,benign prostatic hypertrophy
+sexual dysfunction,benign prostatic hypertrophy
+in the abdomen,ketoacidosis diabetic
+dehydration,ketoacidosis diabetic
+excessive thirst,ketoacidosis diabetic
+fatigue,ketoacidosis diabetic
+loss of appetite,ketoacidosis diabetic
+malaise,ketoacidosis diabetic
+weakness,ketoacidosis diabetic
+nausea,ketoacidosis diabetic
+vomiting,ketoacidosis diabetic
+dryness,ketoacidosis diabetic
+fruity-scented breath,ketoacidosis diabetic
+rapid breathing,ketoacidosis diabetic
+shortness of breath,ketoacidosis diabetic
+excessive urination,ketoacidosis diabetic
+frequent urination,ketoacidosis diabetic
+blurred vision,ketoacidosis diabetic
+mental confusion,ketoacidosis diabetic
+sleepiness,ketoacidosis diabetic
+weight loss,ketoacidosis diabetic
+stiff muscles,tonic-clonic epilepsy
+rhythmic muscle contractions,tonic-clonic epilepsy
+muscle quiver,tonic-clonic epilepsy
+aura,tonic-clonic epilepsy
+pins and needles,tonic-clonic epilepsy
+mental confusion,tonic-clonic epilepsy
+confusion following a seizure,tonic-clonic epilepsy
+blue skin from poor circulation,tonic-clonic epilepsy
+drooling,tonic-clonic epilepsy
+fainting,tonic-clonic epilepsy
+headache,tonic-clonic epilepsy
+leaking of urine,tonic-clonic epilepsy
+lip and tongue biting,tonic-clonic epilepsy
+sleepiness,tonic-clonic epilepsy
+fainting,stenosis aortic valve
+fatigue,stenosis aortic valve
+inability to exercise,stenosis aortic valve
+lightheadedness,stenosis aortic valve
+murmur,stenosis aortic valve
+enlarged heart,stenosis aortic valve
+chest pressure,stenosis aortic valve
+shortness of breath,stenosis aortic valve
+pain in the buttocks,peripheral vascular disease
+pain can occur in the leg and improved with rest,peripheral vascular disease
+pain in the leg while exercising,peripheral vascular disease
+cool skin,peripheral vascular disease
+loss of hair on the legs,peripheral vascular disease
+thinning of skin on the legs,peripheral vascular disease
+ulcers,peripheral vascular disease
+blood in stool,carcinoma colon
+change in bowel habits,carcinoma colon
+constipation,carcinoma colon
+narrow stools,carcinoma colon
+passing excessive amounts of gas,carcinoma colon
+anemia,carcinoma colon
+fatigue,carcinoma colon
+abdominal discomfort,carcinoma colon
+weight loss,carcinoma colon
+pain can occur at rest,parkinson disease
+pain in the hands,parkinson disease
+pain in limbs,parkinson disease
+pain can be postural,parkinson disease
+stiff muscles,parkinson disease
+difficulty standing,parkinson disease
+difficulty walking,parkinson disease
+difficulty with bodily movements,parkinson disease
+involuntary movements,parkinson disease
+muscle rigidity,parkinson disease
+problems with coordination,parkinson disease
+rhythmic muscle contractions,parkinson disease
+slow bodily movement,parkinson disease
+slow shuffling gait,parkinson disease
+daytime sleepiness,parkinson disease
+early awakening,parkinson disease
+nightmares,parkinson disease
+restless sleep,parkinson disease
+sleep disturbances,parkinson disease
+fatigue,parkinson disease
+dizziness,parkinson disease
+poor balance,parkinson disease
+restlessness,parkinson disease
+amnesia,parkinson disease
+confusion in the evening hours,parkinson disease
+dementia,parkinson disease
+difficulty thinking and understanding,parkinson disease
+difficulty speaking,parkinson disease
+soft speech,parkinson disease
+voice box spasms,parkinson disease
+distorted sense of smell,parkinson disease
+loss of smell,parkinson disease
+dribbling of urine,parkinson disease
+leaking of urine,parkinson disease
+anxiety,parkinson disease
+apathy,parkinson disease
+jaw stiffness,parkinson disease
+reduced facial expression,parkinson disease
+blank stare,parkinson disease
+constipation,parkinson disease
+depression,parkinson disease
+difficulty swallowing,parkinson disease
+drooling,parkinson disease
+falling,parkinson disease
+fear of falling,parkinson disease
+loss in contrast sensitivity,parkinson disease
+neck tightness,parkinson disease
+small handwriting,parkinson disease
+trembling,parkinson disease
+unintentional writhing,parkinson disease
+weight loss,parkinson disease
+memory loss,dementia
+mental decline,dementia
+confusion in the evening hours,dementia
+disorientation,dementia
+inability to speak,dementia
+understand language,dementia
+making things up,dementia
+mental confusion,dementia
+inability to recognize common things,dementia
+irritability,dementia
+personality changes,dementia
+restlessness,dementia
+lack of restraint,dementia
+wandering and getting lost,dementia
+anxiety,dementia
+loneliness,dementia
+mood swings,dementia
+nervousness,dementia
+depression,dementia
+hallucination,dementia
+paranoia,dementia
+inability to combine muscle movements,dementia
+unsteady walking,dementia
+falling,dementia
+jumbled speech,dementia
+sleep disorder,dementia
+fatigue,chronic kidney failure
+high blood pressure,chronic kidney failure
+loss of appetite,chronic kidney failure
+malaise,chronic kidney failure
+water-electrolyte imbalance,chronic kidney failure
+kidney damage,chronic kidney failure
+abnormal heart rhythm,chronic kidney failure
+failure to thrive,chronic kidney failure
+fluid in the lungs,chronic kidney failure
+insufficient urine production,chronic kidney failure
+itching,chronic kidney failure
+kidney failure,chronic kidney failure
+severe unintentional weight loss,chronic kidney failure
+swelling,chronic kidney failure
+in the chest,cardiomyopathy
+dizziness,cardiomyopathy
+fatigue,cardiomyopathy
+loss of appetite,cardiomyopathy
+abnormal heart rhythm,cardiomyopathy
+fast heart rate,cardiomyopathy
+murmur,cardiomyopathy
+bloating,cardiomyopathy
+fluid in the abdomen,cardiomyopathy
+coughing,cardiomyopathy
+shortness of breath,cardiomyopathy
+swelling in extremities,cardiomyopathy
+weight gain,cardiomyopathy
+pain in the abdomen,cholecystitis
+shoulder pain,cholecystitis
+pain in upper-right abdomen,cholecystitis
+bloating,cholecystitis
+nausea,cholecystitis
+vomiting,cholecystitis
+chills,cholecystitis
+fever,cholecystitis
+sweating,cholecystitis
+abdominal cramping from gallstones,cholecystitis
+yellow skin and eyes,cholecystitis
+redness,decubitus ulcer
+dark scab,decubitus ulcer
+ulcer of ankle,decubitus ulcer
+ulcer of heel and midfoot,decubitus ulcer
+ulcer of hip,decubitus ulcer
+ulcer of tailbone,decubitus ulcer
+chronic wound,decubitus ulcer
+swelling,decubitus ulcer
+crying,affect labile
+inappropriate laughter,affect labile
+lack of restraint,affect labile
+irritability,affect labile
+anger,affect labile
+mood swings,affect labile
+pain in the sinuses,upper respiratory infection
+congestion,upper respiratory infection
+loss of smell,upper respiratory infection
+post-nasal drip,upper respiratory infection
+sneezing,upper respiratory infection
+sinusitis,upper respiratory infection
+wheezing,upper respiratory infection
+fatigue,upper respiratory infection
+fever,upper respiratory infection
+hoarseness,upper respiratory infection
+laryngitis,upper respiratory infection
+irritation of the tonsils,upper respiratory infection
+soreness,upper respiratory infection
+coughing,upper respiratory infection
+headache,upper respiratory infection
+inflammation of ear phlegm,upper respiratory infection
+swollen lymph nodes,upper respiratory infection
+fatigue,kidney disease
+high blood pressure,kidney disease
+loss of appetite,kidney disease
+malaise,kidney disease
+water-electrolyte imbalance,kidney disease
+kidney damage,kidney disease
+abnormal heart rhythm,kidney disease
+failure to thrive,kidney disease
+fluid in the lungs,kidney disease
+insufficient urine production,kidney disease
+itching,kidney disease
+kidney failure,kidney disease
+severe unintentional weight loss,kidney disease
+swelling,kidney disease
+discomfort,malignant neoplasm of breast
+inverted nipple,malignant neoplasm of breast
+lumps,malignant neoplasm of breast
+nipple discharge,malignant neoplasm of breast
+redness,malignant neoplasm of breast
+swollen lymph nodes,malignant neoplasm of breast
+warmness,cellulitis
+blister,cellulitis
+red rashes,cellulitis
+swelling,cellulitis
+chills,cellulitis
+fever,cellulitis
+malaise,cellulitis
+pus can be dry,cellulitis
+frequent respiratory infections,chronic obstructive airway disease
+shortness of breath,chronic obstructive airway disease
+wheezing,chronic obstructive airway disease
+fatigue,chronic obstructive airway disease
+inability to exercise,chronic obstructive airway disease
+chest pressure,chronic obstructive airway disease
+social isolation,aphasia
+persistent repetition of words,aphasia
+persistent repetition of actions,aphasia
+difficulty speaking,aphasia
+jumbled speech,aphasia
+difficulty building and drawing things,aphasia
+loss of the ability to write,aphasia
+muscles can be drywith phlegm,influenza
+chills,influenza
+dehydration,influenza
+fatigue,influenza
+fever,influenza
+flushing,influenza
+loss of appetite,influenza
+body ache,influenza
+sweating,influenza
+congestion,influenza
+runny nose,influenza
+sneezing,influenza
+chest pressure,influenza
+head congestion,influenza
+headache,influenza
+nausea,influenza
+shortness of breath,influenza
+sore throat,influenza
+swollen lymph nodes in the flank,influenza
+swollen lymph nodes in the back,pyelonephritis
+swollen lymph nodes in the pelvis,pyelonephritis
+pain can occur during urination,pyelonephritis
+urinary tract infection,pyelonephritis
+cloudy urine,pyelonephritis
+foul smelling urine,pyelonephritis
+frequent urge to urinate,pyelonephritis
+frequent urination,pyelonephritis
+blood in urine,pyelonephritis
+chills,pyelonephritis
+fever,pyelonephritis
+fatigue,pyelonephritis
+loss of appetite,pyelonephritis
+malaise,pyelonephritis
+nausea,pyelonephritis
+vomiting,pyelonephritis
+fast heart rate,pyelonephritis
+blurred vision,glaucoma
+distorted vision,glaucoma
+vision loss,glaucoma
+in the abdomen,hernia hiatal
+chest,hernia hiatal
+belching,hernia hiatal
+heartburn,hernia hiatal
+hiccup,hernia hiatal
+nausea,hernia hiatal
+regurgitation,hernia hiatal
+vomiting,hernia hiatal
+throat irritation,hernia hiatal
+can occur while swallowing,oralcandidiasis
+bad breath,oralcandidiasis
+dryness,oralcandidiasis
+white tongue,oralcandidiasis
+abnormality of taste,oralcandidiasis
+difficulty swallowing,oralcandidiasis
+redness,oralcandidiasis
+can occur at night,asthma
+during exercise,asthma
+can be chronic,asthma
+dry,asthma
+with phlegm,asthma
+mild,asthma
+severe,asthma
+difficulty breathing,asthma
+wheezing,asthma
+breathing through the mouth,asthma
+fast breathing,asthma
+frequent respiratory infections,asthma
+rapid breathing,asthma
+shortness of breath at night,asthma
+chest pressure,asthma
+flare,asthma
+anxiety,asthma
+early awakening,asthma
+fast heart rate,asthma
+throat irritation,asthma
+difficulty walking,transient ischemic attack
+muscle weakness,transient ischemic attack
+problems with coordination,transient ischemic attack
+weakness of one side of the body,transient ischemic attack
+feeling faint,transient ischemic attack
+lightheadedness,transient ischemic attack
+vertigo,transient ischemic attack
+slurred speech,transient ischemic attack
+impaired voice,transient ischemic attack
+blurred vision,transient ischemic attack
+vision loss,transient ischemic attack
+muscle weakness,transient ischemic attack
+numbness,transient ischemic attack
+difficulty swallowing,transient ischemic attack
+mental confusion,transient ischemic attack
+reduced sensation of touch,transient ischemic attack
+can occur in the chest while breathing,embolism pulmonary
+lightheadedness,embolism pulmonary
+low oxygen in the body,embolism pulmonary
+fast heart rate,embolism pulmonary
+palpitations,embolism pulmonary
+fast breathing,embolism pulmonary
+shortness of breath,embolism pulmonary
+dry cough,embolism pulmonary
+type 2 diabetes,diabetes
+belching,gastroesophageal reflux disease
+heartburn,gastroesophageal reflux disease
+nausea,gastroesophageal reflux disease
+regurgitation,gastroesophageal reflux disease
+bitter taste,gastroesophageal reflux disease
+discomfort in upper abdomen,gastroesophageal reflux disease
+dry cough,gastroesophageal reflux disease
+in the abdomen,hernia
+pain in pelvis,hernia
+pain in testicle,hernia
+can be dull,hernia
+abdominal discomfort,hernia
+abdominal distension,hernia
+groin discomfort,hernia
+tenderness,hernia
+fever,endocarditis
+chills,endocarditis
+fatigue,endocarditis
+malaise,endocarditis
+night sweats,endocarditis
+heart murmuror,endocarditis
+pain in the area between shoulder blades,myocardial infarction
+pain in arm,myocardial infarction
+pain in chest,myocardial infarction
+pain in jaw,myocardial infarction
+pain in left arm,myocardial infarction
+pain in upper abdomen,myocardial infarction
+can be like a clenched fist in the chest,myocardial infarction
+can occur during rest,myocardial infarction
+dizziness,myocardial infarction
+fatigue,myocardial infarction
+lightheadedness,myocardial infarction
+clammy skin,myocardial infarction
+cold sweat,myocardial infarction
+sweating,myocardial infarction
+heartburn,myocardial infarction
+indigestion,myocardial infarction
+nausea,myocardial infarction
+vomiting,myocardial infarction
+discomfort,myocardial infarction
+tightness,myocardial infarction
+anxiety,myocardial infarction
+chest pressure,myocardial infarction
+feeling of impending doom,myocardial infarction
+palpitations,myocardial infarction
+shortness of breath,myocardial infarction
+shoulder discomfort ,myocardial infarction
+pain in the abdomen,fibroid tumor
+pain in lower back,fibroid tumor
+pain in pelvis,fibroid tumor
+abnormal menstruation,fibroid tumor
+heavy menstruation,fibroid tumor
+irregular menstruation,fibroid tumor
+painful menstruation,fibroid tumor
+spotting,fibroid tumor
+abdominal distension,fibroid tumor
+cramping,fibroid tumor
+pain in the abdomen,gastroenteritis
+diarrhea,gastroenteritis
+stomach cramps,gastroenteritis
+belching,gastroenteritis
+gagging,gastroenteritis
+indigestion,gastroenteritis
+nausea,gastroenteritis
+vomiting,gastroenteritis
+flatulence,gastroenteritis
+chills,gastroenteritis
+dehydration,gastroenteritis
+fatigue,gastroenteritis
+fever,gastroenteritis
+lethargy,gastroenteritis
+lightheadedness,gastroenteritis
+loss of appetite,gastroenteritis
+fast heart rate,gastroenteritis
+headache,gastroenteritis
+insufficient urine production,gastroenteritis
+weakness,gastroenteritis
+weight loss,gastroenteritis
+discomfort,carcinoma breast
+inverted nipple,carcinoma breast
+lumps,carcinoma breast
+nipple discharge,carcinoma breast
+redness,carcinoma breast
+swollen lymph nodes,carcinoma breast
+paincan be mild in the abdomen,hepatitis B
+fatigue,hepatitis B
+loss of appetite,hepatitis B
+malaise,hepatitis B
+fluid in the abdomen,hepatitis B
+nausea,hepatitis B
+web of swollen blood vessels in the skin,hepatitis B
+yellow skin and eyes,hepatitis B
+dark urine,hepatitis B
+itching,hepatitis B
+in the abdomen,diverticulitis
+bloating,diverticulitis
+blood in stool,diverticulitis
+change in bowel habits,diverticulitis
+constipation,diverticulitis
+diarrhea,diverticulitis
+indigestion,diverticulitis
+nausea,diverticulitis
+vomiting,diverticulitis
+flatulence,diverticulitis
+chills,diverticulitis
+fever,diverticulitis
+loss of appetite,diverticulitis
+cramping,diverticulitis
+hypervigilance,anxiety state
+irritability,anxiety state
+restlessness,anxiety state
+lack of concentration,anxiety state
+racing thoughts,anxiety state
+unwanted thoughts,anxiety state
+fatigue,anxiety state
+sweating,anxiety state
+anxiety,anxiety state
+excessive worry,anxiety state
+fear,anxiety state
+feeling of impending doom,anxiety state
+insomnia,anxiety state
+nausea,anxiety state
+palpitations,anxiety state
+trembling,anxiety state
+pain can be sharp in the chest,pneumonia
+fever,pneumonia
+chills,pneumonia
+dehydration,pneumonia
+fatigue,pneumonia
+loss of appetite,pneumonia
+malaise,pneumonia
+clammy skin,pneumonia
+sweating,pneumonia
+fast breathing,pneumonia
+shallow breathing,pneumonia
+shortness of breath,pneumonia
+wheezing,pneumonia
+coughing,pneumonia
+fast heart rate,pneumonia
+anxiety,depressive disorder
+apathy,depressive disorder
+general discontent,depressive disorder
+guilt,depressive disorder
+hopelessness,depressive disorder
+loss of interest,depressive disorder
+pleasure in activities,depressive disorder
+mood swings,depressive disorder
+sadness,depressive disorder
+agitation,depressive disorder
+excessive crying,depressive disorder
+irritability,depressive disorder
+restlessness,depressive disorder
+social isolation,depressive disorder
+early awakening,depressive disorder
+excess sleepiness,depressive disorder
+insomnia,depressive disorder
+restless sleep,depressive disorder
+excessive hunger,depressive disorder
+fatigue,depressive disorder
+loss of appetite,depressive disorder
+lack of concentration,depressive disorder
+slowness in activity,depressive disorder
+thoughts of suicide,depressive disorder
+weight gain,depressive disorder
+weight loss,depressive disorder
+poor appetite,depressive disorder
+repeatedly going over thoughts,depressive disorder
+mood swings,manic disorder
+sadness,manic disorder
+elevated mood,manic disorder
+anger,manic disorder
+anxiety,manic disorder
+apathy,manic disorder
+apprehension,manic disorder
+euphoria,manic disorder
+general discontent,manic disorder
+guilt,manic disorder
+hopelessness,manic disorder
+loss of interest,manic disorder
+pleasure in activities,manic disorder
+irritability,manic disorder
+risk taking behavior,manic disorder
+disorganized behavior,manic disorder
+aggression,manic disorder
+agitation,manic disorder
+crying,manic disorder
+excess desire for sex,manic disorder
+hyperactivity,manic disorder
+impulsivity,manic disorder
+restlessness,manic disorder
+self-harm,manic disorder
+unwanted thoughts,manic disorder
+delusion,manic disorder
+lack of concentration,manic disorder
+racing thoughts,manic disorder
+slowness in activity,manic disorder
+false belief of superiority,manic disorder
+depression,manic disorder
+manic episode,manic disorder
+agitated depression,manic disorder
+paranoia,manic disorder
+weight gain,manic disorder
+weight loss,manic disorder
+difficulty falling asleep,manic disorder
+excess sleepiness,manic disorder
+fatigue,manic disorder
+rapid and frenzied speaking,manic disorder
+pain in the back,obesity
+pain in joints,obesity
+overweight,obesity
+binge eating,obesity
+fatigue,obesity
+pot belly,obesity
+pain can be dull,malignant neoplasm of lung
+pain sharp can occur while breathing,malignant neoplasm of lung
+dry with phlegm,malignant neoplasm of lung
+severe with blood,malignant neoplasm of lung
+frequent respiratory infections,malignant neoplasm of lung
+shortness of breath,malignant neoplasm of lung
+wheezing,malignant neoplasm of lung
+fatigue,malignant neoplasm of lung
+loss of appetite,malignant neoplasm of lung
+chest pressure,malignant neoplasm of lung
+hoarseness,malignant neoplasm of lung
+swollen lymph nodes,malignant neoplasm of lung
+weakness,malignant neoplasm of lung
+weight loss,malignant neoplasm of lung
+low blood pressure,septicemia
+chills,septicemia
+dizziness,septicemia
+fatigue,septicemia
+fever,septicemia
+flushing,septicemia
+low body temperature,septicemia
+shivering,septicemia
+altered level of consciousness,septicemia
+mental confusion,septicemia
+fast breathing,septicemia
+shortness of breath,septicemia
+delirium,septicemia
+fast heart rate,septicemia
+insufficient urine production,septicemia
+gan dysfunction,septicemia
+skin discoloration,septicemia
+sleepiness,septicemia

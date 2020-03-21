@@ -1,5 +1,3 @@
-
-
 Source,Target,Weight
 depression mental,feeling suicidal,1337
 depression mental,suicidal,1337
@@ -2130,6 +2128,3 @@ septicemia,haemorrhage,311
 septicemia,unresponsiveness,311
 septicemia,rale,311
 septicemia,apyrexial,311
-,,
-
-
